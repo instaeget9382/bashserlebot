@@ -1,0 +1,6 @@
+# Скопируйте этот файл в config.py и укажите свой токен
+# cp config.py.example config.py
+
+TOKEN = 'YOUR_BOT_TOKEN_HERE'
+
+
